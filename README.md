@@ -10,3 +10,9 @@ Copy key and paste into new shh key on git
 1. Refresh repopage and 
  > git remote set-url origin git@github.com:akshatajagtap19/Python_practice.git
 > git push origin master
+
+# Basic Commands
+1> git status
+2> git add <file names>
+3> git commit -m "Message "
+4? git push origin master
